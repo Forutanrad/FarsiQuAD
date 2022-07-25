@@ -52,4 +52,13 @@ In extracting, it has been tried to use different types of questions, including 
 In the design of the questions, care has been taken to ensure that each question can only be extracted from one article and that the probability of having an answer in other articles is very low.
 
 
+# Data preparation
+
+In this step, the created data was divided into two parts, training and testing. In this step, for version 1, 9018 questions were considered for training data and 1000 questions for testing data, and JSON files were created according to the SQuAD standard. These files can be integrated with the original version of SQuAD.
+
+# Version number 2 for Dataset
+
+With the checks done on the version of a database, the results were acceptable for an article, but when the search was done in many articles, the results were displayed as answers because these texts had not been seen before for the question, so to overcome this problem, the data version number 2 (FarsiQuAD_V2) was prepared. From this data, 50 questions were randomly selected for each article that are not related to this article, and were added to the data as questions that the models should know that they do not know the answer to (impossible answer). By doing this, the number of data rows reached more than 145,000 questions.
+
+
 
