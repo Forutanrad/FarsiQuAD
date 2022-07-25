@@ -28,16 +28,26 @@ In this data, the lowest number of questions extracted from the articles is 1, t
 ##Things that have been observed in the preparation of questions:
 
 In choosing the answer, try to choose the lowest possible answer.
+
 In preparing answers with prefixes such as Ms., Mr., Haji, Engineer, General, etc., they are selected as part of the answer.
+
 Prefixes such as year, city, etc., if they were in the text of the question, are not considered in the answer.
+
 Suffixes such as meter, milliliter, kilometer, a million, lunar, solar, millimeter, etc. are also considered part of the answer, if these words are not present in the text of the question itself.
+
 Words that express approximations such as approximately, approximately, more than close to and... if they are not mentioned in the question, they are considered as part of the answer in the answer.
+
 Full reflection of the text used in the quotation.
 In extracting, it has been tried to use different types of questions, including possessive, time, why, where, what, how, how, why, which, etc.
+
 In preparing the questions, questions with several connections have been used, for example, in the question it is said "What is the occupation of the father of the author of the article?", while in the text of the article, the name of the person is mentioned and the person's father is mentioned, and then the occupation of his father is discussed.
+
 Conditional questions have also been extracted, such as the question "Is Iran Khodro company public or private?".
+
 Equivalent words or concepts that are not exactly used in the text have been used repeatedly in preparing questions.
+
 In preparing the questions, both in the text of the question and in the answer to the question, words other than Persian were also used. For example, the question "Which family does hyacinth belong to?" Answer: "Hyacinthaceae".
+
 In its questions and answers, the written equivalent of Persian numbers and its opposite are used, such as (three, two, one, etc.)
 In the design of the questions, care has been taken to ensure that each question can only be extracted from one article and that the probability of having an answer in other articles is very low.
 
