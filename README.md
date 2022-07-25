@@ -27,13 +27,13 @@ In this data, the lowest number of questions extracted from the articles is 1, t
 
 ##Things that have been observed in the preparation of questions:
 
-In choosing the answer, try to choose the lowest possible answer.
+-In choosing the answer, try to choose the lowest possible answer.
 
-In preparing answers with prefixes such as Ms., Mr., Haji, Engineer, General, etc., they are selected as part of the answer.
+-In preparing answers with prefixes such as Ms., Mr., Haji, Engineer, General, etc., they are selected as part of the answer.
 
-Prefixes such as year, city, etc., if they were in the text of the question, are not considered in the answer.
+-Prefixes such as year, city, etc., if they were in the text of the question, are not considered in the answer.
 
-Suffixes such as meter, milliliter, kilometer, a million, lunar, solar, millimeter, etc. are also considered part of the answer, if these words are not present in the text of the question itself.
+-Suffixes such as meter, milliliter, kilometer, a million, lunar, solar, millimeter, etc. are also considered part of the answer, if these words are not present in the text of the question itself.
 
 Words that express approximations such as approximately, approximately, more than close to and... if they are not mentioned in the question, they are considered as part of the answer in the answer.
 
